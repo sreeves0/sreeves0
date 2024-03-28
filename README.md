@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sreeves0
+- 👋 Hi, I’m Steven
 - 👀 I’m interested in Cyber Security and Networks
 - 🌱 I’m currently learning on how to use Microsoft Sentinel more effectively
 - 💞️ I’m looking to collaborate on KQL queries or Sentinel life hacks
