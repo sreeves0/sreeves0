@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning on how to use Microsoft Sentinel more effectively
 - 💞️ I’m looking to collaborate on KQL queries or Sentinel life hacks
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Calisthenics athlete who loves to go 
+- ⚡ Fun fact: I am a Calisthenics athlete who loves to go bouldering
