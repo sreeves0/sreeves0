@@ -1,6 +1,5 @@
+# Welcome to my GitHub page 
 - 👋 Hi, I’m Steven
 - 👀 I’m interested in Cyber Security and Networks
-- 🌱 I’m currently learning on how to use Microsoft Sentinel more effectively
-- 💞️ I’m looking to collaborate on KQL queries or Sentinel life hacks
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning and developing in different products and languages
 - ⚡ Fun fact: I am a Calisthenics athlete who loves to go bouldering
