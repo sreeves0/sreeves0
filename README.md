@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">A passionate Cyber and Network Security person</h3>
+<h3 align="center">A passionate Network and Cyber Security person</h3>
 
 - 🔭 I’m currently working on **Django-Web-Interface**
 
