@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steven</h1>
+<h1 align="left">Hi 👋, I'm Steven</h1>
 
 - 🔭 I’m currently working on **Django and Elastic**
 
