@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
 
-- 🔭 I’m currently working on **Django-Web-Interface**
+- 🔭 I’m currently working on **Django and Elastic**
 
 - 🌱 I’m currently learning **Django, Microsoft Sentinel and Elastic**
 
